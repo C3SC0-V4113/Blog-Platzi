@@ -4,6 +4,20 @@ body{
     color: white;
 }
 
+#cabecera{
+    font-weight: bold;
+    background-color: tomato;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #slogan{
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+}
+
 header{
     margin: 20px;
     padding: 1em;
