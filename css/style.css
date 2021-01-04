@@ -50,3 +50,7 @@ footer{
     height: 25px;
     color: white;
 }
+
+footer #foot-text{
+    padding-right: 25px;
+}
