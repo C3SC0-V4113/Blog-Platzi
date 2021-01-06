@@ -42,11 +42,20 @@ section{
     font-size: 16px;
 }
 
+#imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgur-embed-pub{
+    display: inline-block;
+}
+
 footer{
     background-color: coral;
     text-align: end;
     font-size: xx-small;
-    position: absolute;
     bottom: 0;
     border-top: 1px solid white;
     width: 100%;
